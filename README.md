@@ -2,7 +2,7 @@
 
 ## Agenda
 
-![Alt text](<images/Screenshot 2023-07-16 at 8.22.53 PM.png>)
+![Alt text](<images/Screenshot 2023-07-16 at 8.22.53 PM_.png>)
 
 ## Setup
 
